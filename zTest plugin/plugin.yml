@@ -1,0 +1,14 @@
+main: me.kingdomplugin.main.Main
+version: V1
+name: KingdomPlugin
+author : [Lombex // ZDENNICK2000]
+
+commands:
+ channel:
+   description: None yet
+ k:
+   description: None yet
+ list:
+   description: None yet
+ kd:
+   description: None yet  
